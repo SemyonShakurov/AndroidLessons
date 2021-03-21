@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab 10</string>
+    <string name="exit">Выход</string>
+    <string name="about_program">О программе</string>
+</resources>

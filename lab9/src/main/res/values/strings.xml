@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab 9</string>
+    <string name="about_program">О программе</string>
+    <string name="fio">Шакуров Семен Сергеевич, гр. БПИ194</string>
+</resources>

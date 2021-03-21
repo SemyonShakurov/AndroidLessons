@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="activity1">Activity 1</string>
+    <string name="enter_name">Enter name</string>
+    <string name="btn_go">Go</string>
+    <string name="fio">Шакуров Семен Сергеевич, гр. БПИ194</string>
+    <string name="activity2">Activity 2</string>
+    <string name="entered_text">You entered</string>
+    <string name="btn_back">Back</string>
+</resources>
